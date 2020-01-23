@@ -1,7 +1,7 @@
 [Info]
 ID=No more forced driver updates
 Ver=1.0
-Desc=Windows 10 automatically installs updates, including new versions of hardware drivers.\n\nIf you want to use specific drivers, you can prevent with this script Windows Update from instaling driver updates.
+Desc=Windows 10 automatically installs updates, including new versions of hardware drivers.\n\nIf you want to use specific drivers, you can prevent Windows Update from installing driver updates with this script.
 Dev=Mirinsoft
 DevURL=https://www.mirinsoft.com
 WinVer=Compatible with Windows 10
