@@ -9,7 +9,7 @@ Evaluation=Custom
 EvaluationColor=562765
 
 [Code]
-Task1=Try,query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v PUAProtection,STDOUT
+Task1=Try,query "HKLM\SOFTWARE\Microsoft\Windows Defender" /v PUAProtection,STDOUT
 File1=Run,powershell -command Set-MpPreference -PUAProtection Enabled,STDOUT
 
 [Undo]
