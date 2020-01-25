@@ -15,8 +15,6 @@ BlockAppsAutoInstall=add "HKCU\Software\Microsoft\Windows\CurrentVersion\Content
 [Code]
 Task1=Try,%CheckKey%,STDOUT
 File1=Reg,%BlockAppsAutoInstall%,STDOUT
-File2=Get,https://download.gimp.org/pub/gimp/v2.10/windows/gimp-2.10.14-setup-2.exe,DEFAULT
 
 [Undo]
 File1=Reg,add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SilentInstalledAppsEnabled /t REG_DWORD /d 1 /f,STDOUT
-
