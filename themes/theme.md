@@ -36,7 +36,7 @@ FooterLeftBottom=f0eee0
 FooterFontColor=808080
 Settings=edebe9
 ```
-![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/debotnet-dim.png)
+![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/classic.png)
 
 Windows PowerShell
 ---
@@ -127,7 +127,7 @@ FooterFontColor=ffffff
 Settings=602483
 SettingsFontColor=ffffff
 ```
-![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/chroma.png)
+![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/modern.png)
 
 ### Here you will find some old themes compatible with version <=0.3.0
 This vesions are comaptible with design code of our app Roboget @https://github.com/mirinsoft/Roboget as the form UI is based upon this application.
