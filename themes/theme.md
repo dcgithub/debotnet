@@ -9,29 +9,32 @@ Just copy one of the following [Theme] sections (or create a new) into a text fi
 ### Info
 Debotnet 0.2.8 and earlier versions uses [Template] section for design elements. If you are wokring with this versions, please replace in the .DESIGN files [Theme] > [Template]
 
-All theme files are full compatible with Debotnet v0.2.2 and later. Some templates use design code of our app Roboget @https://github.com/mirinsoft/Roboget as the form UI is based upon this application.
+All theme files are full compatible with Debotnet v0.2.2 and later. 
 
 # You will find here custom design code
 
 ![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/debotnet.png)
 
-Debotnet Dimmed
+Debotnet Classic theme (last version using this as default theme was 0.3.0)
 ---
 ```
 [Theme]
-BackColor=F8F1DE
-FontColor=123842
-FontColorLight=9BA6A5
-HamburgerMenu=536D6D
-NavTop=EEE8D5
-NavTopFontColor=2C4F54
-NavLeft=BBB5A7
-NavLeftFontColor=2C4F54
-DebugFontColor=B58900
-Divider=93A1A1
-Footer=F8F1DE
-FooterFontColor=426063
-Settings=BBB5A7
+BackColor=ffffff
+FontColor=000000
+FontColorLight=6d6d6d
+NavTop=f0eee0
+NavTopFontColor=000000
+NavTopLeft=F0EEE0
+Search=f0eee0
+SearchActive=000000
+NavLeftMenu=F3F2F1
+NavLeftMenuFontColor=000000
+DebugFontColor=003df8
+Divider=000000
+Footer=f0eee0
+FooterLeftBottom=f0eee0
+FooterFontColor=808080
+Settings=edebe9
 ```
 ![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/debotnet-dim.png)
 
@@ -42,14 +45,16 @@ Windows PowerShell
 BackColor=012456
 FontColor=ffffff
 FontColorLight=dbff00
-HamburgerMenu=ffffff
 NavTop=012456
 NavTopFontColor=ffffff
-NavLeft=012456
-NavLeftFontColor=ffffff
+NavTopLeft=012456
+Search=012456
+SearchActive=ffffff
+NavLeftMenu=012456
+NavLeftMenuFontColor=ffffff
 DebugFontColor=dbff00
-Divider=ffffff
 Footer=012456
+FooterLeftBottom=012456
 FooterFontColor=ffffff
 Settings=EDEBE9
 ```
@@ -62,14 +67,17 @@ Norton Commander
 BackColor=0402AC
 FontColor=30DCFC
 FontColorLight=FCFE64
-HamburgerMenu=4BDEF3
 NavTop=0F0F0F
 NavTopFontColor=45FEFC
-NavLeft=0402AC
-NavLeftFontColor=45FEFC
+NavTopLeft=0F0F0F
+Search=0F0F0F
+SearchActive=30DCFC
+NavLeftMenu=0402AC
+NavLeftMenuFontColor=45FEFC
 DebugFontColor=FCFE54
 Divider=54FEFC
-Footer=000000
+Footer=0F0F0F
+FooterLeftBottom=0F0F0F
 FooterFontColor=54FEFC
 Settings=EDEBE9
 ```
@@ -82,38 +90,47 @@ Visual Studio Dark
 BackColor=1E1E1E
 FontColor=ffffff
 FontColorLight=979797
-HamburgerMenu=CCCCCC
 NavTop=323233
 NavTopFontColor=ffffff
-NavLeft=252526
-NavLeftFontColor=ffffff
+NavTopLeft=323233
+Search=323233
+SearchActive=1D567C
+NavLeftMenu=252526
+NavLeftMenuFontColor=ffffff
 DebugFontColor=D7BA7D
-Divider=4D4D4D
 Footer=68217A
+FooterLeftBottom=68217A
 FooterFontColor=ffffff
-Settings=D4D4D4
+Settings=252526
+SettingsFontColor=ffffff
 ```
 ![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/vscode.png)
 
-Chroma
+Modern
 ---
 ```
 [Theme]
-BackColor=2D2D2D
-FontColor=AEAEAE
-FontColorLight=536D6D
-HamburgerMenu=E5E6E8
-NavTop=4F4F4F
-NavTopFontColor=E5E6E8
-NavLeft=2D2D2D
-NavLeftFontColor=AEAEAE
-DebugFontColor=E5E6E8
-Divider=9200FF
-Footer=2D2D2D
-FooterFontColor=AEAEAE
-Settings=BBB5A7
+BackColor=29235C
+FontColor=ffffff
+FontColorLight=36A9E1
+NavTop=29235C
+NavTopFontColor=ffffff
+NavTopLeft=A01F80
+Search=514D72
+SearchActive=9391AA
+NavLeftMenu=A01F80
+NavLeftMenuFontColor=ffffff
+DebugFontColor=ffffff
+Footer=29235C
+FooterLeftBottom=A01F80
+FooterFontColor=ffffff
+Settings=602483
+SettingsFontColor=ffffff
 ```
 ![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/chroma.png)
+
+### Here you will find some old themes compatible with version <=0.3.0
+This vesions are comaptible with design code of our app Roboget @https://github.com/mirinsoft/Roboget as the form UI is based upon this application.
 
 Alien
 ---
