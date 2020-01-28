@@ -130,7 +130,7 @@ SettingsFontColor=ffffff
 ![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/modern.png)
 
 ### Here you will find some old themes compatible with version <=0.3.0
-This vesions are comaptible with design code of our app Roboget @https://github.com/mirinsoft/Roboget as the form UI is based upon this application.
+This vesions are compatible with design code of our app Roboget @https://github.com/mirinsoft/Roboget as the form UI is based upon this application.
 
 Alien
 ---
