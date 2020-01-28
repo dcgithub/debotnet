@@ -15,3 +15,4 @@ File1=Reg,add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Exec
 [Undo]
 File1=Reg,delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe" /f,STDOUT
 
+
