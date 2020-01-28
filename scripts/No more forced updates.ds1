@@ -1,6 +1,6 @@
 [Info]
 ID=No more forced updates
-Ver=1.0
+Ver=1.1
 Desc=This will notify when updates are available, and you decide when to install them.\n\nThe values added to registry with this script will prevent forced updates.
 Dev=Federico Dossena
 DevURL=https://github.com/adolfintel/Windows10-Privacy

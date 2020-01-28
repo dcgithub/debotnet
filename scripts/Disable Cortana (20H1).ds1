@@ -14,18 +14,3 @@ File1=Run,powershell -command Get-AppxPackage *Microsoft.549981C3F5F10* | Remove
 [Undo]
 File1=Run,powershell Add-AppxPackage -register "C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_1.1911.21713.0_x64__8wekyb3d8bbwe\AppxManifest.xml" -DisableDevelopmentMode,STDOUT
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
