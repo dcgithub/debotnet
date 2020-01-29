@@ -129,9 +129,9 @@ Please use the [official community](https://www.mirinsoft.com/community) or repo
 		•
 		<a href="https://github.com/mirinsoft/debotnet/tree/master/scripts">Scripts</a>
 		•
-		<a href="https://github.com/mirinsoft/debotnet/tree/master/templates">Designs</a>
+		<a href="https://github.com/mirinsoft/debotnet/wiki/FAQ">FAQ</a>
 		•
-		<a href="https://github.com/mirinsoft/debotnet/tree/master/docs">Docs</a>
+		<a href="https://github.com/mirinsoft/debotnet/wiki">Documentation</a>
 		•
 		<a href="https://github.com/mirinsoft/debotnet/releases">Download</a>
 	</strong>
