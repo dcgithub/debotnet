@@ -1,5 +1,7 @@
 <p align="center"> <sup> Currently are 111 privacy scripts available (01-23-2020) </sup> <p align="center">
- 
+	
+![alt text](https://github.com/mirinsoft/debotnet/blob/master/debotnet-intro.gif)
+	
 <p align="center">
  
 <a href="https://github.com/mirinsoft/debotnet/commits/master">
@@ -48,7 +50,7 @@ A free and portable tool for controlling Windows 10's many privacy-related setti
 ![alt text](https://github.com/mirinsoft/debotnet/blob/master/debotnet-this.png)
 
 # with Debotnet!
-![alt text](https://github.com/mirinsoft/debotnet/blob/master/debotnet-intro.gif)
+![alt text](https://github.com/mirinsoft/debotnet/blob/master/themes/debotnet.png)
 
 *Custom themes can be found [here](https://github.com/mirinsoft/debotnet/blob/master/themes/theme.md)*
 
