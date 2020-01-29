@@ -43,8 +43,11 @@ A free and portable tool for controlling Windows 10's many privacy-related setti
 </p>
 
 *** 
+
+# Debot this!
 ![alt text](https://github.com/mirinsoft/debotnet/blob/master/debotnet-this.png)
 
+# with Debotnet!
 ![alt text](https://github.com/mirinsoft/debotnet/blob/master/themes/debotnet.png)
 *Custom themes can be found [here](https://github.com/mirinsoft/debotnet/blob/master/themes/theme.md)*
 
