@@ -106,7 +106,7 @@ File8=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v Sch
 *A list of available commands can be found [here](https://github.com/mirinsoft/debotnet/blob/master/docs/commands.md)*
 
 ## 💾 Download 
-* (Official) https://www.mirinsoft.com/debotnet 
+* (Official) https://www.mirinsoft.com/ms-apps/debotnet
 * (Mirrror) https://github.com/mirinsoft/debotnet/releases
 
 ## 💬 Suggesting features / providing feedback
