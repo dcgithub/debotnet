@@ -1,18 +1,12 @@
-# How to change the Debotnet design?
-To enable another design, just open Settings > Change design.
+# How to change the Debotnet theme?
+To enable another theme, just open Settings > Change theme.
 
-All design files are located in \bin\ directory of Debotnet and can be viewed as plain text, with an editor of your choice.
+All theme files are located in \bin\ directory of Debotnet and can be viewed as plain text with an editor of your choice.
 
 # How to create a design file?
 Just copy one of the following [Theme] sections (or create a new) into a text file, save it as .DESIGN filetype and move it to the above mentioned directory of Debotnet. You're done!
 
-### Info
-Debotnet 0.2.8 and earlier versions uses [Template] section for design elements. If you are wokring with this versions, please replace in the .DESIGN files [Theme] > [Template]
-
-All theme files are full compatible with Debotnet v0.2.2 and later. 
-
-# You will find here custom design code
-
+# You will find here custom theme code
 ![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/debotnet.png)
 
 Debotnet Classic theme (last version using this as default theme was 0.3.0)
