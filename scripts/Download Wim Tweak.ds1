@@ -9,7 +9,7 @@ Evaluation=Limited
 EvaluationColor=ffd45e
 
 [Code]
-File1=Get,https://www.mirinsoft.com/downloads/Debotnet/third-party/install_wim_tweak.exe,third-party
+File1=Get,https://www.mirinsoft.com/downloads/debotnet/third-party/install_wim_tweak.exe,third-party
 ;File2=Run,third-party\install_wim_tweak.exe /o /c Microsoft-Windows-Cortana /r,SHOWCLI
 
 [Undo]
