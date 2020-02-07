@@ -21,7 +21,7 @@ File3=Start,third-party\Disable Game Bar features.bat
 [Undo]
 Task1=rmdir,third-party
 Task2=GetRaw,https://github.com/mirinsoft/debotnet/blob/master/third-party/Enable Game Bar features.bat,third-party
-Task3=Get,https://www.mirinsoft.com/downloads/Debotnet/third-party/nsudoc.exe,third-party
+Task3=Get,https://www.mirinsoft.com/downloads/debotnet/third-party/nsudoc.exe,third-party
 File1=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\GameDVR" /v AllowgameDVR /t REG_SZ /d 1 /f,STDOUT
 File2=Reg,add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR" /v AppCaptureEnabled /t REG_SZ /d 1 /f,STDOUT
 File3=Start,third-party\Enable Game Bar features.bat
