@@ -139,5 +139,5 @@ Please use the [official community](https://www.mirinsoft.com/community) or repo
 
 Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
 
-<p align="center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=info@donate.com&lc=US&item_name=
+<p align="center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=
 Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a></p>
