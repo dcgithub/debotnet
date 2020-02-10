@@ -7,6 +7,7 @@ DevURL=https://www.mirinsoft.com
 WinVer=Compatible with Windows 10
 Evaluation=Recommended
 EvaluationColor=009e5e
+RequireAdmin=Yes
 
 [Code]
 Task1=Try,query "HKLM\Software\Policies\Microsoft\Windows" /v DisableFileSyncNGSC,STDOUT

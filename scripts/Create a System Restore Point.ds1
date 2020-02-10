@@ -7,6 +7,7 @@ DevURL=https://www.mirinsoft.com
 WinVer=Compatible with Windows 10
 Evaluation=Recommended
 EvaluationColor=009e5e
+RequireAdmin=Yes
 
 [Code]
 File1=Run,powershell -command Checkpoint-Computer -Description "Debotnet" -RestorePointType "MODIFY_SETTINGS",STDOUT

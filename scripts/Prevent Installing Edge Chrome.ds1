@@ -7,6 +7,7 @@ DevURL=https://www.windowscentral.com/how-prevent-microsoft-edge-chromium-instal
 WinVer=Compatible with Windows 10
 Evaluation=Custom
 EvaluationColor=562765
+RequireAdmin=Yes
 
 [Code]
 Task1=Try,query "HKLM\SOFTWARE\Microsoft" /v DoNotUpdateToEdgeWithChromium,STDOUT

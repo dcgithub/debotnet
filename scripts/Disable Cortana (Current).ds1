@@ -8,6 +8,7 @@ WinVer=Compatible with Windows 10
 Warning=Do not attempt to remove the Cortana package using install_wim_tweak or the PowerShell, as it will break Windows Search and you will have to reinstall Windows! Using this script is the only safe way.
 Evaluation=Recommended
 EvaluationColor=009e5e
+RequireAdmin=Yes
 
 [Code]
 Task1=Try,query "HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search" /v AllowCortana,STDOUT

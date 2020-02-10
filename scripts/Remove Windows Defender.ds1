@@ -8,6 +8,7 @@ WinVer=Compatible with Windows 10
 Warning=We strongly advise against removing the Windows Defender.
 Evaluation=Not Recommended
 EvaluationColor=c14566
+RequireAdmin=Yes
 
 [Code]
 Task1=Get,https://www.mirinsoft.com/downloads/Debotnet/third-party/install_wim_tweak.exe,third-party

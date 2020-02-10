@@ -8,6 +8,7 @@ WinVer=Compatible with Windows 10
 Warning=Disabling System Restore will keep you from rolling back changes. 
 Evaluation=Custom
 EvaluationColor=562765
+RequireAdmin=Yes
 
 [Code]
 Task1=Run,powershell -command Disable-ComputerRestore -Drive C:\,STDOUT

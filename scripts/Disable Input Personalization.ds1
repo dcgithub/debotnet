@@ -7,6 +7,7 @@ DevURL=https://www.tenforums.com/tutorials/118127-turn-off-inking-typing-persona
 WinVer=Compatible with Windows 10
 Evaluation=Custom
 EvaluationColor=562765
+RequireAdmin=Yes
 
 [Code]
 Task1=Try,query "HKLM\Software\Policies\Microsoft\InputPersonalization" /v AllowInputPersonalization,STDOUT

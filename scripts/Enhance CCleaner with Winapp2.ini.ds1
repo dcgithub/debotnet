@@ -6,6 +6,7 @@ Dev=Mirinsoft
 DevURL=https://www.mirinsoft.com
 Evaluation=Enhancement
 EvaluationColor=000000
+RequireAdmin=Yes
 
 [Code]
 Task1=Get,https://raw.githubusercontent.com/MoscaDotTo/Winapp2/master/Winapp2.ini,third-party

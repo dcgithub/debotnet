@@ -11,13 +11,14 @@ EvaluationColor=009e5e
 [Variables]
 CheckKey=query "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SilentInstalledAppsEnabled
 BlockAppsAutoInstall=add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SilentInstalledAppsEnabled /t REG_DWORD /d 0 /f
+UndoAppsInstalled=add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SilentInstalledAppsEnabled /t REG_DWORD /d 1 /f,STDOUT
 
 [Code]
 Task1=Try,%CheckKey%,STDOUT
 File1=Reg,%BlockAppsAutoInstall%,STDOUT
 
 [Undo]
-File1=Reg,add "HKCU\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v SilentInstalledAppsEnabled /t REG_DWORD /d 1 /f,STDOUT
+File1=Reg,%UndoAppsInstalled%,STDOUT
 
 
 
