@@ -74,6 +74,8 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 * Simple scripting engine for adding custom privacy rules
 * Debug mode. E.g. the Test mode lets you see which values are twisted in registry or commands executed
 * Scripts updated on GitHub
+* Support for [Ninite](https://ninite.com) service, which allows you to download and install more than 70 popular apps for Windows.
+* Download deprecated Windows apps, e.g. Classic Calculator
 * Modern and familiar UI, with [theme support](https://github.com/mirinsoft/debotnet/blob/master/themes/theme.md)
 * Small footprint. No installation required.
 * Portable
