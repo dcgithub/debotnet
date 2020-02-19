@@ -108,8 +108,9 @@ File8=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v Sch
 ```
 
 ## 💾 Download 
-* (Latest stable) https://www.mirinsoft.com/debotnet
-* (Nightly build) https://www.mirinsoft.com/debotnet-nightly
+* (Latest stable on Dev site) https://www.mirinsoft.com/debotnet
+* (Latest stable on GitHub) https://github.com/mirinsoft/debotnet/releases
+* (Nightly build, latest published release is the nightly build) https://github.com/mirinsoft/debotnet/releases
 
 ## 💬 Suggesting features / providing feedback
 Please send me [feedback](https://www.mirinsoft.com/feedback) or report an [Issue on GitHub](https://github.com/mirinsoft/debotnet/issues/new)
