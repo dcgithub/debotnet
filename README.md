@@ -112,7 +112,7 @@ File8=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v Sch
 * (Mirrror) https://github.com/mirinsoft/debotnet/releases
 
 ## 💬 Suggesting features / providing feedback
-Please use the [official community](https://www.mirinsoft.com/community) or report an [Issue on GitHub](https://github.com/mirinsoft/debotnet/issues/new)
+Please send me [feedback](https://www.mirinsoft.com/feedback) or report an [Issue on GitHub](https://github.com/mirinsoft/debotnet/issues/new)
 
 ## 🚀 Acknowledgments
 * More Information about Debotnet can be found on the [official website](https://www.mirinsoft.com/ms-apps/debotnet)
@@ -140,6 +140,3 @@ Please use the [official community](https://www.mirinsoft.com/community) or repo
 
 
 Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
-
-<p align="center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=
-Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a></p>
