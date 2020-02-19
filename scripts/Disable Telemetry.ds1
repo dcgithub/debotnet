@@ -32,5 +32,3 @@ File2=Reg,add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataColle
 File3=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppCompat" /v AITEnable /t REG_DWORD /d 1 /f,STDOUT
 File4=Reg,add "HKLM\SYSTEM\ControlSet001\Services\DiagTrack" /v Start /t REG_DWORD /d 2 /f,STDOUT
 File5=Reg,add "HKLM\SYSTEM\ControlSet001\Services\dmwappushsvc" /v Start /t REG_DWORD /d 2 /f,STDOUT
-
-
