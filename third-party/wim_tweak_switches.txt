@@ -1,4 +1,4 @@
-@Credits goes to @https://gist.github.com/Espionage724/35a6776120b27fb0f892955ce645a763
+@Credits @https://gist.github.com/Espionage724/35a6776120b27fb0f892955ce645a763
 
 install_wim_tweak.exe /o /c "Microsoft-Windows-Internet" /r
 install_wim_tweak.exe /o /c "Adobe-Flash" /r   << Seems that this switch does not work on Winver 1909
