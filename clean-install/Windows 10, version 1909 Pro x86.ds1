@@ -15,7 +15,3 @@ Task1=Run,third-party\MediaCreationTool1909.exe /Eula Accept /Retail /MediaArch 
 
 [Undo]
 Info1=Msg,This script will ONLY download an ISO file.\nNo system changes are made here!
-
-
-
-
