@@ -11,8 +11,7 @@ RequireAdmin=Yes
 
 [Code]
 Task1=Try,query "HKLM\SOFTWARE\Policies\Microsoft\WMDRM" /v DisableOnline,STDOUT
-File1=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\WMDRM" /v DisableOnline /t REG_DWORD /d 0 /f,STDOUT
-
-[Undo]
 File1=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\WMDRM" /v DisableOnline /t REG_DWORD /d 1 /f,STDOUT
 
+[Undo]
+File1=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\WMDRM" /v DisableOnline /t REG_DWORD /d 0 /f,STDOUT
