@@ -10,7 +10,7 @@ In this License, "the software" means the software product "Debotnet".
 
 The software is being licensed to you free of charge for your private and also commercial use. 
 
-In last case, please consider supporting the Software via any amount of Donation.
+In last case, please consider supporting the Software [via any amount of Donation.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@mirinsoft.com&lc=US&item_name=%20Mirinsoft&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
 
 # DISTRIBUTION
 
