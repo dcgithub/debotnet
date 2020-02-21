@@ -75,7 +75,7 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 * Debug mode. E.g. the Test mode lets you see which values are twisted in registry or commands executed
 * Scripts updated on GitHub
 * Support for [Ninite](https://ninite.com) service, which allows you to download and install more than 70 popular apps for Windows.
-* Download Windows 10 ISO files using Microsoft Media Creation Tool with command line switches and also through MCT Wrapper
+* Download Windows 10 ISO files using Microsoft Media Creation Tool with command line switches, also through [MCT Wrapper](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) or just a [PowerShell script](https://github.com/pbatard/Fido)
 * Download deprecated Windows apps, e.g. Classic Calculator
 * Modern and familiar UI, with [theme support](https://github.com/mirinsoft/debotnet/blob/master/themes/theme.md)
 * Small footprint. No installation required (Portable)
