@@ -78,8 +78,7 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 * Download Windows 10 ISO files using Microsoft Media Creation Tool with command line switches and also through MCT Wrapper
 * Download deprecated Windows apps, e.g. Classic Calculator
 * Modern and familiar UI, with [theme support](https://github.com/mirinsoft/debotnet/blob/master/themes/theme.md)
-* Small footprint. No installation required.
-* Portable
+* Small footprint. No installation required (Portable)
 
 ## 🔨 Usage
 As above mentioned Debotnet's main tools (in this case the scripts for debotnetting Windows) are not hard coded. Debotnet is based upon simple .DS1 files which define exactly which registry keys, files and or/services should be disabled, blocked, deleted etc. and preserved by the program. These script files allows you to execute command-line tools and parameter and also simple PowerShell code.
@@ -110,7 +109,7 @@ File8=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v Sch
 ## 💾 Download 
 * (Latest stable on Dev site) https://www.mirinsoft.com/debotnet
 * (Latest stable on GitHub) https://github.com/mirinsoft/debotnet/releases
-* (Nightly build, latest published release is the nightly build) https://github.com/mirinsoft/debotnet/releases
+* (Nightly build as latest published release) https://github.com/mirinsoft/debotnet/releases
 
 ## 💬 Suggesting features / providing feedback
 Please send me [feedback](https://www.mirinsoft.com/feedback) or report an [Issue on GitHub](https://github.com/mirinsoft/debotnet/issues/new)
