@@ -64,7 +64,7 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 
 #### Debotnet requires Windows 10 including both 32-bit and 64-bit versions.
 
-#### You can read a more complete introduction in the blog post [here](https://www.mirinsoft.com/blog/news/60-take-charge-of-locking-down-your-privacy-with-debotnet).
+#### You can read a more complete introduction about the latest changes in the blog post [here](https://www.mirinsoft.com/blog/18-debotnet/16-improvements-in-debotnet-release-0-6).
 
 ## 🎨 Features
 
