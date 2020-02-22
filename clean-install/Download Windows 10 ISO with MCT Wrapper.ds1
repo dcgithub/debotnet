@@ -10,10 +10,10 @@ EvaluationColor=68217a
 Update=False
 
 [Code]
-Task1=GetRaw,https://github.com/mirinsoft/debotnet/blob/master/third-party/mediacreationtool.bat,third-party
-File1=Run,third-party\mediacreationtool.bat,STDOUT
+Task1=GetRaw,https://github.com/mirinsoft/debotnet/blob/master/third-party/mediacreationtool.bat,helper
+File1=Run,helper\mediacreationtool.bat,STDOUT
 
 [Undo]
-Task1=rmdir,third-party
+Task1=rmdir,helper
 
 
