@@ -11,10 +11,10 @@ EvaluationColor=c14566
 RequireAdmin=Yes
 
 [Code]
-Task1=Get,https://www.mirinsoft.com/downloads/Debotnet/third-party/install_wim_tweak.exe,third-party
-File1=Run,third-party\install_wim_tweak.exe /o /l,SHOWCLI
-File2=Run,third-party\install_wim_tweak.exe /o /c Windows-Defender /r,SHOWCLI
-File3=Run,third-party\install_wim_tweak.exe /h /o /l,SHOWCLI
+Task1=Get,https://www.mirinsoft.com/downloads/Debotnet/third-party/install_wim_tweak.exe,helper
+File1=Run,helper\install_wim_tweak.exe /o /l,SHOWCLI
+File2=Run,helper\install_wim_tweak.exe /o /c Windows-Defender /r,SHOWCLI
+File3=Run,helper\install_wim_tweak.exe /h /o /l,SHOWCLI
 File4=Reg,add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v SmartScreenEnabled /t REG_SZ /d "Off" /f,STDOUT
 File5=Reg,add "HKCU\Software\Microsoft\Windows\CurrentVersion\AppHost" /v "EnableWebContentEvaluation" /t REG_DWORD /d "0" /f,STDOUT
 File6=Reg,add "HKCU\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\PhishingFilter" /v "EnabledV9" /t REG_DWORD /d "0" /f,STDOUT
