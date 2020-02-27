@@ -130,6 +130,8 @@ Please send me [feedback](https://www.mirinsoft.com/feedback) or report an [Issu
 		•
 		<a href="https://github.com/mirinsoft/debotnet/tree/master/scripts">Scripts</a>
 		•
+		<a href="https://github.com/mirinsoft/debotnet/wiki/How-to's">How-to's</a>
+		•
 		<a href="https://github.com/mirinsoft/debotnet/wiki/FAQ">FAQ</a>
 		•
 		<a href="https://github.com/mirinsoft/debotnet/wiki">Documentation</a>
