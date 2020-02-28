@@ -1,7 +1,7 @@
 [Info]
-ID=Neutralize Microsoft Edge
+ID=Neutralize Microsoft Edge (NOT Chrome)
 Ver=1.0
-Desc=Since May 2019, Edge can no longer be fully removed without breaking Windows Update. We can neutralize it with this script, but the icon will still be there in the start menu.
+Desc=Since May 2019, Edge (NOT the new Chromium Edge) can no longer be fully removed without breaking Windows Update. We can neutralize it with this script, but the icon will still be there in the start menu.
 Dev=Federico Dossena
 DevURL=https://github.com/adolfintel/Windows10-Privacy
 WinVer=Compatible with Windows 10
