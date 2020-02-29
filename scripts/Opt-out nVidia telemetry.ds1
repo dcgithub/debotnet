@@ -1,7 +1,7 @@
 [Info]
 ID=Opt-out nVidia telemetry
 Ver=1.0
-Desc=Nvidia Telemetry gets installed alongside the driver package. While you may and should customize the installation of the Nvidia driver so that only the bits that you require are installed, there is no option to disable the Telemetry components from being installed. These do get installed even if you only install the graphics driver itself in the custom installation dialog.\n\nYou can use this script to disable the telemetry services Nvidia bundles with their drivers. This script is based upon several recommendations send to me and i've merged them into one script file. I would put it currently in Beta status! If you feel unsure about using it, you can also try to disable Nvidia's telemetry services with this utility @https://github.com/Sleepydragn1/Disable-Nvidia-Telemetry
+Desc=Nvidia Telemetry gets installed alongside the driver package. While you may should customize the installation of the Nvidia driver so that only the bits that you require are installed, there is no option to disable the Telemetry components from being installed. These do get installed even if you only install the graphics driver itself in the custom installation dialog.\n\nYou can use this script to disable the telemetry services Nvidia bundles with their drivers. This script is based upon several recommendations send to me and i've merged them into one script file. I would put it currently in Beta status! If you feel unsure about using it, you can also try to disable Nvidia's telemetry services with this utility @https://github.com/Sleepydragn1/Disable-Nvidia-Telemetry
 Dev=Community
 DevURL=https://www.mirinsoft.com
 WinVer=Compatible with Windows 10
