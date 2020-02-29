@@ -8,7 +8,7 @@ WinVer=Compatible with Windows 10
 Update=False
 
 [Code]
-File1=Run,powershell -command "Get-appxpackage -allusers *Microsoft.XboxGamingOverlay* | Remove-AppxPackage"
+File1=Run,powershell -command "Get-appxpackage *Microsoft.XboxGamingOverlay* | Remove-AppxPackage"
 
 [Undo]
 Info1=Msg,This script does not support re-installing built-in apps.\nYou will find tutorials (e.g. with PowerShell commands) on the web how to restore them in your computer.
