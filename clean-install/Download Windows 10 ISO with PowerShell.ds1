@@ -11,7 +11,7 @@ Update=False
 
 [Code]
 Task1=GetRaw,https://github.com/pbatard/Fido/blob/master/Fido.ps1,helper
-File1=Run,powershell -file helper\Fido.ps1,STDOUT
+File1=Run,powershell -ExecutionPolicy Bypass -file helper\Fido.ps1,STDOUT
 
 [Undo]
 Task1=rmdir,helper
