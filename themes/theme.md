@@ -122,3 +122,26 @@ Settings=602483
 SettingsFontColor=ffffff
 ```
 ![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/modern.png)
+
+The Goat Theme
+---
+```
+[Theme]
+BackColor=2f252e
+FontColor=e0bf8a
+FontColorLight=e45898
+NavTop=1f8292
+NavTopFontColor=e0bf8a
+NavTopLeft=1f8292
+Search=1f8292
+SearchActive=40333f
+NavLeftMenu=2f252e
+NavLeftMenuFontColor=e0bf8a
+DebugFontColor=206671
+Footer=2f252e
+FooterLeftBottom=2f252e
+FooterFontColor=e0bf8a
+Settings=e0c18a
+SettingsFontColor=2f252e
+```
+![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/the-goat-theme.png)
