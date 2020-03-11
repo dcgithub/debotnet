@@ -17,7 +17,3 @@ File2=Reg,add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" /v Cortana
 [Undo]
 File1=Reg,add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" /v BingSearchEnabled /t REG_DWORD /d 1 /f,STDOUT
 File2=Reg,add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" /v CortanaConsent /t REG_DWORD /d 1 /f,STDOUT
-
-
-
-
