@@ -145,3 +145,27 @@ Settings=e0c18a
 SettingsFontColor=2f252e
 ```
 ![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/the-goat-theme.png)
+
+Terminus
+---
+```
+[Theme]
+BackColor=f8f1de
+FontColor=305056
+FontColorLight=cb4b16
+NavTop=eee8d5
+NavTopFontColor=305056
+NavTopLeft=eee8d5
+Search=eee8d5
+SearchActive=e2decd
+NavLeftMenu=bbb5a7
+NavLeftMenuFontColor=002b36
+DebugFontColor=206671
+Divider=93a1a1
+Footer=fdf6e3
+FooterLeftBottom=bbb5a7
+FooterFontColor=426063
+Settings=697b7d
+SettingsFontColor=fbf5e2
+```
+![alt text](https://github.com/Mirinsoft/debotnet/blob/master/themes/terminus.png)
