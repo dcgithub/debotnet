@@ -5,7 +5,7 @@ Desc=Starting with Windows 10 Fall Creators Update, Microsoft is ditching the go
 Dev=Winaero
 DevURL=https://winaero.com/blog/download-classic-paint-windows-10/
 WinVer=Compatible with Windows 10
-Evaluation=Privacy App
+Evaluation=Deprecated App
 EvaluationColor=68217a
 
 [Code]
@@ -13,4 +13,5 @@ File1=Get,https://github.com/mirinsoft/debotnet/raw/master/deprecated/apps/oldpa
 
 [Undo]
 Info1=Msg,This script will ONLY download an application.\nNo system changes are made here!
+
 

@@ -13,3 +13,5 @@ File1=Run,net stop DiagTrack,STDOUT
 
 [Undo]
 File1=Run,net start DiagTrack,STDOUT
+
+

@@ -20,6 +20,3 @@ Task2=Run,net stop WpnService,STDOUT
 File1=Reg,add "HKCU\Software\Policies\Microsoft\Windows\CurrentVersion\PushNotifications" /v NoToastApplicationNotification /t REG_DWORD /d 0 /f,STDOUT
 File2=Reg,add "HKCU\Software\Policies\Microsoft\Windows\CurrentVersion\PushNotifications" /v NoToastApplicationNotificationOnLockScreen /t REG_DWORD /d 0 
 Task1=Run,net start WpnService,STDOUT
-
-
-

@@ -11,7 +11,10 @@ RequireAdmin=Yes
 
 [Code]
 Task1=Try,query "HKLM\Software\Policies\Microsoft\Edge" /v FavoritesBarEnabled,STDOUT
+Task2=TaskKill,msedge.exe,WARNING
 File1=Reg,add "HKLM\Software\Policies\Microsoft\Edge" /v FavoritesBarEnabled /t REG_DWORD /d 0 /f,STDOUT
+Task3=Start,msedge.exe
 
 [Undo]
 File1=Reg,delete "HKLM\Software\Policies\Microsoft\Edge" /v FavoritesBarEnabled /f,STDOUT
+Info1=Msg,Please restart Microsoft Edge Browser for the changes to take effect.

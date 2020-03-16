@@ -1,5 +1,5 @@
 [Info]
-ID=Disable Input Personalization and reporting
+ID=Disable Input Personalization && reporting
 Ver=1.0
 Desc=When the Getting to know you privacy setting is turned on for inking & typing personalization in Windows 10, you can use your typing history and handwriting patterns to create a local user dictionary for you that is used to make better typing suggestions and improve handwriting recognition for each of the languages you use.\n\nUse this script to disable Input Personalization and reporting.
 Dev=tenforums
@@ -27,3 +27,4 @@ File2=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\InputPersonalization" /v Restric
 File3=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\InputPersonalization" /v RestrictImplicitTextCollection /t REG_DWORD /d 0 /f,STDOUT
 File4=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\HandwritingErrorReports" /v PreventHandwritingErrorReports /t REG_DWORD /d 0 /f,STDOUT
 File5=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\TabletPC" /v PreventHandwritingDataSharing /t REG_DWORD /d 0 /f,STDOUT
+

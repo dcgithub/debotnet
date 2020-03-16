@@ -1,7 +1,7 @@
 [Info]
 ID=No Windows Tips
 Ver=1.0
-Desc=Microsoft uses diagnostic information to determine which tips are appropriate.\n\nThis scripts prevents from viewing Windows tips.\nIf you run it, you will no longer see Windows Tips, e.g. Spotlight and Consumer Features, Feedback Notifications etc.
+Desc=Microsoft uses diagnostic information to determine which tips are appropriate.\n\nIf you run this script, you will no longer see Windows Tips, e.g. Spotlight and Consumer Features, Feedback Notifications etc.
 Dev=Federico Dossena
 DevURL=https://github.com/adolfintel/Windows10-Privacy
 WinVer=Compatible with Windows 10

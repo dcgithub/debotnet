@@ -19,7 +19,3 @@ File1=Reg,%BlockAppsAutoInstall%,STDOUT
 
 [Undo]
 File1=Reg,%UndoAppsInstalled%,STDOUT
-
-
-
-
