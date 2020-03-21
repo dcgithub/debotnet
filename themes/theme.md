@@ -53,7 +53,7 @@ NavMiddleMenu=FCF3E0
 DebugFontColor=003df8
 Settings=FADE92
 ```
-![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/classic.png)
+![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/plinius.png)
 
 Windows PowerShell
 ---
