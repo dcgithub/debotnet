@@ -1,7 +1,7 @@
 [Info]
 ID=Disable Scheduled tasks (Advanced)
 Ver=1.0
-Desc= Windows 10 has a huge amount of scheduled tasks that may report some data.\nSome of these may not exist, but this not a problem. This script will remove all that exists.
+Desc=Windows 10 has a huge amount of scheduled tasks that may report some data.\nSome of these may not exist, but this not a problem. This script will remove all that exists.
 Dev=Federico Dossena
 DevURL=https://github.com/adolfintel/Windows10-Privacy
 WinVer=Compatible with Windows 10

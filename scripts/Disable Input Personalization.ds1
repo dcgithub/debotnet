@@ -27,4 +27,3 @@ File2=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\InputPersonalization" /v Restric
 File3=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\InputPersonalization" /v RestrictImplicitTextCollection /t REG_DWORD /d 0 /f,STDOUT
 File4=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\HandwritingErrorReports" /v PreventHandwritingErrorReports /t REG_DWORD /d 0 /f,STDOUT
 File5=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\TabletPC" /v PreventHandwritingDataSharing /t REG_DWORD /d 0 /f,STDOUT
-

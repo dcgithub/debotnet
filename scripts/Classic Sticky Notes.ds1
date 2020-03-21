@@ -7,6 +7,7 @@ DevURL=https://winaero.com/blog/old-classic-sticky-notes-for-windows-10/
 WinVer=Compatible with Windows 10
 Evaluation=Deprecated App
 EvaluationColor=68217a
+Update=False
 
 [Code]
 File1=Get,https://github.com/mirinsoft/debotnet/raw/master/deprecated/apps/oldstickynoteswin10.zip,DEFAULT
