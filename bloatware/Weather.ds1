@@ -5,6 +5,7 @@ Desc=If you no longer want or use an app, then you could uninstall the app to re
 Dev=Mirinsoft
 DevURL=https://www.mirinsoft.com
 WinVer=Compatible with Windows 10
+Update=False
 
 [Code]
 File1=Run,powershell -command "Get-AppxPackage *Microsoft.BingWeather* | Remove-AppxPackage"

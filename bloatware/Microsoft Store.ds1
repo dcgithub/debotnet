@@ -8,6 +8,7 @@ WinVer=Compatible with Windows 10
 Warning=We strongly advise against removing the Windows Store App.
 Evaluation=Not Recommended
 EvaluationColor=c14566
+Update=False
 
 [Code]
 File1=Run,powershell -command "Get-AppxPackage *Microsoft.WindowsStore* | Remove-AppxPackage",SHOWCLI
