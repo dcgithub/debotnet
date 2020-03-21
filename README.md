@@ -20,9 +20,6 @@ alt="GitHub issues">
 <a href="https://twitter.com/intent/tweet?text=Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.&url=https%3A%2F%2Fgithub.com%2Fmirinsoft%2Fdebotnet">
 <img src="https://img.shields.io/twitter/url/https/github.com/mirinsoft/debotnet.svg?style=flat-square&logo=twitter"
 alt="GitHub tweet">
- 
-<a href="https://twitter.com/intent/follow?screen_name=Mirinsoft">
- <img src="https://img.shields.io/twitter/follow/Mirinsoft?style=social&logo=twitter"alt="follow on Twitter"></a>
 
 </p>
 
