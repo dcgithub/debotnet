@@ -1,10 +1,8 @@
 <p align="center"> <sup> Currently are over 250 privacy scripts available (03-21-2020) </sup> <p align="center">
 	
 <p align="center">
-
-<a href="https://github.com/mirinsoft/debotnet/commits/master">
-<img src="https://img.shields.io/github/last-commit/mirinsoft/debotnet.svg?style=flat-square&logo=github&logoColor=white"
-alt="GitHub last commit">
+	 
+<a href="https://github.com/mirinsoft/debotnet/stargazers"><img src="https://img.shields.io/github/stars/mirinsoft/debotnet.svg?style=flat-square"/></a>
 <a href="https://github.com/mirinsoft/debotnet/issues">
 <img src="https://img.shields.io/github/issues-raw/mirinsoft/debotnet.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
