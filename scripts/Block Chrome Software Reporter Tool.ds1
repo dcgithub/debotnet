@@ -14,8 +14,10 @@ Task1=Try,query "HKLM\SOFTWARE\Policies\Google\Chrome",STDOUT
 File1=Reg,add "HKLM\SOFTWARE\Policies\Google\Chrome" /v "ChromeCleanupEnabled" /t REG_SZ /d 0 /f,STDOUT
 File2=Reg,add "HKLM\SOFTWARE\Policies\Google\Chrome" /v "ChromeCleanupReportingEnabled" /t REG_SZ /d 0 /f,STDOUT
 File3=Reg,add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\software_reporter_tool.exe" /v Debugger /t REG_SZ /d "%windir%\System32\taskkill.exe" /f,STDOUT
+File4=Reg,add "HKLM\SOFTWARE\Policies\Google\Chrome" /v "MetricsReportingEnabled" /t REG_SZ /d 0 /f,STDOUT
 
 [Undo]
 File1=Reg,delete "HKLM\SOFTWARE\Policies\Google\Chrome" /v "ChromeCleanupEnabled" /f,STDOUT
 File2=Reg,delete "HKLM\SOFTWARE\Policies\Google\Chrome" /v "ChromeCleanupReportingEnabled" /f,STDOUT
 File3=Reg,delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\software_reporter_tool.exe" /f,STDOUT
+File4=Reg,delete "HKLM\SOFTWARE\Policies\Google\Chrome" /v "MetricsReportingEnabled" /f,STDOUT
