@@ -1,8 +1,7 @@
 <p align="center"> <sup> Currently are over 250 privacy scripts available (03-21-2020) </sup> <p align="center">
 	
 <p align="center">
- 
-<a href="https://github.com/mirinsoft/debotnet/stargazers"><img src="https://img.shields.io/github/stars/mirinsoft/debotnet.svg?style=flat-square"/></a>
+
 <a href="https://github.com/mirinsoft/debotnet/commits/master">
 <img src="https://img.shields.io/github/last-commit/mirinsoft/debotnet.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
@@ -20,6 +19,9 @@ alt="GitHub issues">
 <a href="https://twitter.com/intent/tweet?text=Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.&url=https%3A%2F%2Fgithub.com%2Fmirinsoft%2Fdebotnet">
 <img src="https://img.shields.io/twitter/url/https/github.com/mirinsoft/debotnet.svg?style=flat-square&logo=twitter"
 alt="GitHub tweet">
+		 
+<a href="https://twitter.com/intent/follow?screen_name=Mirinsoft">
+ <img src="https://img.shields.io/twitter/follow/Mirinsoft?style=social&logo=twitter"alt="follow on Twitter"></a>
 
 </p>
 
