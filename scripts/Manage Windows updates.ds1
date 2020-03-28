@@ -9,8 +9,9 @@ Evaluation=Enhancement
 EvaluationColor=000000
 
 [Code]
-File1=Get,https://www.carifred.com/wau_manager/WAU%20Manager.exe,DEFAULT
-Task1=Start(),WAU Manager.exe
+File1=Get,https://www.carifred.com/wau_manager/WAU%20Manager.exe,tools
+Task1=Start,tools\WAU Manager.exe
 
 [Undo]
-Info1=Msg,This script will ONLY download an application.\nNo system changes are made here!
+Task1=rm,tools\WAU Manager.exe
+Info1=Msg,WAU Manager has been removed from tools directory.

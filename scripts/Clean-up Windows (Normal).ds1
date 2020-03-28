@@ -9,7 +9,14 @@ Evaluation=Privacy App
 EvaluationColor=68217a
 
 [Code]
-File1=Get,https://www.mirinsoft.com/downloads/cleanmgrplus/cleanmgr+.zip,DEFAULT
+File1=Get,https://www.mirinsoft.com/downloads/cleanmgrplus/cleanmgr+.zip,tools
+File2=GetRaw,https://github.com/mirinsoft/debotnet/blob/master/helper/7za.exe,helper
+Task1=Run,helper\7za x tools\cleanmgr+.zip -otools\Cleanmgr+ -y,STDOUT
+Task2=Start,tools\Cleanmgr+\Cleanmgr+.exe
+Task3=rm,tools\Cleanmgr+.zip
 
 [Undo]
 Info1=Msg,This script will ONLY download an application.\nNo system changes are made here!
+
+
+

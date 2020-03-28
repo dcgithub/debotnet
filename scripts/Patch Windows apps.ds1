@@ -9,8 +9,10 @@ Evaluation=Privacy App
 EvaluationColor=68217a
 
 [Code]
-File1=Get,https://patchmypc.net/freeupdater/PatchMyPC.exe,DEFAULT
-Task1=Start(),PatchMyPC.exe
+File1=Get,https://patchmypc.net/freeupdater/PatchMyPC.exe,tools
+Task1=Start(),tools\PatchMyPC.exe
 
 [Undo]
-Info1=Msg,This script will ONLY download an application.\nNo system changes are made here!
+Task1=rm,tools\PatchMyPC.exe
+Info1=Msg,PatchMyPC has been removed from tools directory.
+
