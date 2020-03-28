@@ -55,6 +55,30 @@ Settings=FADE92
 ```
 ![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/plinius.png)
 
+Debotnet Dark
+---
+```
+[Theme]
+AppBadge=000000
+AppBadgeFontColor=ffffff
+BackColor=000000
+FontColor=ffffff
+FontColorLight=0062af
+NavTopFontColor=ffffff
+Search=262626
+SearchActive=363636
+SearchFontColor=ffffff
+NavLeftMenu=520c21
+NavLeftMenuFontColor=ffffff
+NavMiddleMenu=262626
+DebugFontColor=ffffff
+Divider=000000
+FooterFontColor=ffffff
+Settings=363636
+SettingsFontColor=ffffff
+```
+![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/dark.png)
+
 Windows PowerShell
 ---
 ```
