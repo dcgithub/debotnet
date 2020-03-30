@@ -77,7 +77,7 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 * Scripts updated on GitHub
 * Support for [Ninite](https://ninite.com) service, which allows you to download and install more than 70 popular apps for Windows.
 * Download Windows 10 ISO files using Microsoft Media Creation Tool with command line switches, also through [MCT Wrapper](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) or just a [PowerShell script](https://github.com/pbatard/Fido)
-* Integration of custom PowerShell debloating scrips, e.g [W4RH4WK / Debloat-Windows-10, Sycnex](https://github.com/W4RH4WK/Debloat-Windows-10),[Sycnex / Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+* Integration of custom PowerShell debloating scrips, e.g [W4RH4WK / Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10), [Sycnex / Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * Download deprecated Windows apps, e.g. Classic Calculator
 * Modern and familiar UI, with [theme support](https://github.com/mirinsoft/debotnet/blob/master/themes/theme.md)
 * Small footprint. No installation required (Portable)
