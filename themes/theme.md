@@ -9,7 +9,7 @@ Just copy one of the following [Theme] sections (or create a new) into a text fi
 # You will find here custom theme code
 ![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/debotnet.png)
 
-Debotnet Classic
+Debotnet Retro
 ---
 ```
 [Theme]
@@ -32,7 +32,7 @@ FooterFontColor=000000
 Settings=0030b3
 SettingsFontColor=ffffff
 ```
-![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/classic.png)
+![alt text](https://github.com/Mirinsoft/Debotnet/blob/master/themes/retro.png)
 
 Debotnet Plinius
 ---
