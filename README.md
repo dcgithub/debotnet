@@ -48,10 +48,7 @@ A free and portable tool for controlling Windows 10's many privacy-related setti
 
 *** 
 
-# Stop this!
-![alt text](https://github.com/mirinsoft/debotnet/blob/master/debotnet-this.png)
-
-# with Debotnet!
+# Debotnet - Your preparation for the Net!
 
 The Windows 10 default privacy settings leave a lot to be desired when it comes to protecting you and your private information. Whenever I set up a new computer or update a current setup for my family or job, I always carefully go through the privacy settings for each install, making sure to lock it down to make it as private as possible.
 
