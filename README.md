@@ -72,8 +72,8 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 * Simple scripting engine for adding custom privacy rules
 * Debug mode. E.g. the Test mode lets you see which values are twisted in registry or commands executed
 * Scripts updated on GitHub
-* Support for [Ninite](https://ninite.com) service, which allows you to download and install more than 70 popular apps for Windows.
-* Support for [Chocolatey Software](https://chocolatey.org/), which has a massive community package repository of installs (more than 4,000 packages).
+* Support for [Ninite](https://ninite.com) service, which allows you to download and install more than 70 popular apps for Windows
+* Support for [Chocolatey Software](https://chocolatey.org/), which has a massive community package repository of installs (more than 4,000 packages)
 * Download Windows 10 ISO files using Microsoft Media Creation Tool with command line switches, also through [MCT Wrapper](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) or just a [PowerShell script](https://github.com/pbatard/Fido)
 * Integration of custom PowerShell debloating scrips, e.g [W4RH4WK / Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10), [Sycnex / Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * Download deprecated Windows apps, e.g. Classic Calculator
