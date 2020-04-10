@@ -32,15 +32,3 @@ File2=Reg,add "HKCU\System\GameConfigStore" /v GameDVR_Enabled /t REG_DWORD /d 1
 File3=Reg,add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR" /v AppCaptureEnabled /t REG_DWORD /d 1 /f,STDOUT
 File4=Reg,add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR" /v  HistoricalCaptureEnabled /t REG_DWORD /d 1 /f,STDOUT
 File5=Start,helper\Enable Game Bar features.bat
-
-
-
-
-
-
-
-
-
-
-
-
