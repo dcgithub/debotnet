@@ -68,7 +68,7 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 
 * Disable telemetry and online features, which send your data (sensitive and not) to Microsoft
 * Choose which unwanted functions you wish to disable
-* Debotnet will show you what it's doing. You have full control, because the executing code can be viewed in a simple text editor
+* Debotnet will show you what it's doing. You have full control, because the executing code is not hard coded and can be viewed in a simple text editor
 * Simple scripting engine for adding custom privacy rules
 * Debug mode. E.g. the Test mode lets you see which values are twisted in registry or commands executed
 * Scripts updated on GitHub
