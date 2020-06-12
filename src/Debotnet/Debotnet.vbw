@@ -1,0 +1,13 @@
+frmMain = 26, 72, 1395, 845, C, 48, 75, 1258, 858, C
+modUI = -72, 48, 1389, 861, C
+modGlobal = -2, 55, 1331, 912, C
+modINI = 71, 41, 1364, 808, C
+modProgram = 26, 26, 1266, 882, C
+modScripts = 130, 130, 1162, 858, C
+modFolderBrowser = 182, 182, 1214, 910, C
+modUpdate = 78, 78, 1292, 997, C
+modEditor = 0, 0, 0, 0, C
+modStdout = 52, 52, 1377, 1000, C
+clsScript = 52, 52, 1084, 780, 
+modFileBrowser = 104, 104, 1136, 832, C
+modOS = 104, 104, 1136, 832, C
