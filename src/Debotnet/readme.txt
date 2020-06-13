@@ -18,6 +18,6 @@ Deviations from the original sources
    - modStdout has been replaced by an improved version from http://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=35492&lngWId=1
    - Many new features planned for release 0.8/1.0 are not included in the sources, because I didn't finish it and removed them.
    - Update Url to Mirinsoft server has been removed
-   - Debotnet Packs  (Marketplace for custom scripts) has been closed
+   - Debotnet Packs (Marketplace for custom scripts) has been closed
    - Sources provided here are based upon release 0.7.6 and refreshed with some comments
-   - The binaries of last the last compiled release 0.7.8 are still available on Mirinsoft.com
+   - The binaries of last compiled release 0.7.8 are still available on Mirinsoft.com
