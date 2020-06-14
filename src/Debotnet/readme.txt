@@ -20,4 +20,4 @@ Deviations from the original sources
    - Update Url to Mirinsoft server has been removed
    - Debotnet Packs (Marketplace for custom scripts) has been closed
    - Sources provided here are based upon release 0.7.6 and refreshed with some comments
-   - The binaries of last compiled release 0.7.8 are still available on Mirinsoft.com
+   - The binaries of last compiled release 0.7.8 are still available on https://github.com/mirinsoft/debotnet/releases/tag/0.7.8
