@@ -1,25 +1,25 @@
 <p align="center"> <sup> Currently are over 250 privacy scripts available (03-21-2020) </sup> <p align="center">
 	
-<a href="https://github.com/mirinsoft/debotnet/commits/master">
-<img src="https://img.shields.io/github/last-commit/mirinsoft/debotnet.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/builtbybel/debotnet/commits/master">
+<img src="https://img.shields.io/github/last-commit/builtbybel/debotnet.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
-<a href="https://github.com/mirinsoft/debotnet/issues">
-<img src="https://img.shields.io/github/issues-raw/mirinsoft/debotnet.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/builtbybel/debotnet/issues">
+<img src="https://img.shields.io/github/issues-raw/builtbybel/debotnet.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
  
-<a href="https://github.com/Mirinsoft/Debotnet/releases/latest" target="_blank">
- <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/debotnet.svg?style=flat-square" />
+<a href="https://github.com/builtbybel/Debotnet/releases/latest" target="_blank">
+ <img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/debotnet.svg?style=flat-square" />
 </a>
-<a href="https://github.com/Mirinsoft/Debotnet/releases" target="_blank">
- <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/debotnet/total.svg?style=flat-square" />
+<a href="https://github.com/builtbybel/Debotnet/releases" target="_blank">
+ <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/debotnet/total.svg?style=flat-square" />
 </a>
   
-<a href="https://twitter.com/intent/tweet?text=Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.&url=https%3A%2F%2Fgithub.com%2Fmirinsoft%2Fdebotnet">
-<img src="https://img.shields.io/twitter/url/https/github.com/mirinsoft/debotnet.svg?style=flat-square&logo=twitter"
+<a href="https://twitter.com/intent/tweet?text=Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.&url=https%3A%2F%2Fgithub.com%2Fbuiltbybel%2Fdebotnet">
+<img src="https://img.shields.io/twitter/url/https/github.com/builtbybel/debotnet.svg?style=flat-square&logo=twitter"
 alt="GitHub tweet">
 		 
-<a href="https://twitter.com/intent/follow?screen_name=Mirinsoft">
- <img src="https://img.shields.io/twitter/follow/Mirinsoft?style=social&logo=twitter"alt="follow on Twitter"></a>
+<a href="https://twitter.com/intent/follow?screen_name=builtbybel">
+ <img src="https://img.shields.io/twitter/follow/builtbybel?style=social&logo=twitter"alt="follow on Twitter"></a>
 
 </p>
 
@@ -28,7 +28,7 @@ alt="GitHub tweet">
 *** 
 <h1 align="center">
 <sub>
-<img  src="https://github.com/Mirinsoft/Debotnet/raw/master/debotnet.png"
+<img  src="https://github.com/builtbybel/Debotnet/raw/master/debotnet.png"
       height="38"
       width="38">
 </sub>
@@ -39,7 +39,7 @@ alt="GitHub tweet">
 <p align="center">
 A free and portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
 	
-![alt text](https://github.com/mirinsoft/debotnet/blob/master/debotnet-intro.gif)
+![alt text](https://github.com/builtbybel/debotnet/blob/master/debotnet-intro.gif)
 
 </p>
 
@@ -60,9 +60,9 @@ This qualifies Windows 10 as malware, and more specifically, a botnet.
 #### Debotnet requires Windows 10 including both 32-bit and 64-bit versions.
 
 ### Info! The development of Debotnet was discontinued. 
-If you are interested in continuing to maintain the project, you can do so. I have released the [Source Code of Debotnet](https://github.com/mirinsoft/debotnet/tree/master/src/Debotnet). The project was compiled with Visual Basic 6. It will not be everybody's cup of tea and it's not mine too, but I had fun with it anyway and it worked well. You can read the whole background story [here](https://www.mirinsoft.com/blog/19-apps/35-an-ode-to-microsoft-visual-basic-and-debotnet).
+If you are interested in continuing to maintain the project, you can do so. I have released the [Source Code of Debotnet](https://github.com/builtbybel/debotnet/tree/master/src/Debotnet). The project was compiled with Visual Basic 6. It will not be everybody's cup of tea and it's not mine too, but I had fun with it anyway and it worked well. You can read the whole background story [here](https://www.builtbybel.com/blog/19-apps/35-an-ode-to-microsoft-visual-basic-and-debotnet).
 
-### You will find great replacement tools for Debotnet with [SharpApp](https://github.com/mirinsoft/sharpapp) or [Spydish](https://github.com/mirinsoft/spydish) which is even better for the non-experienced user.
+### You will find great replacement tools for Debotnet with [SharpApp](https://github.com/builtbybel/sharpapp) or [Spydish](https://github.com/builtbybel/spydish) which is even better for the non-experienced user.
 
 ## 🎨 Features
 
@@ -77,7 +77,7 @@ If you are interested in continuing to maintain the project, you can do so. I ha
 * Download Windows 10 ISO files using Microsoft Media Creation Tool with command line switches, also through [MCT Wrapper](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) or just a [PowerShell script](https://github.com/pbatard/Fido)
 * Integration of custom PowerShell debloating scrips, e.g [W4RH4WK / Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10), [Sycnex / Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
 * Download deprecated Windows apps, e.g. Classic Calculator
-* Modern and familiar UI, with [theme support](https://github.com/mirinsoft/debotnet/blob/master/themes/theme.md)
+* Modern and familiar UI, with [theme support](https://github.com/builtbybel/debotnet/blob/master/themes/theme.md)
 * Small footprint. No installation required (Portable)
 
 ## 🔨 Usage
@@ -107,16 +107,14 @@ File8=Reg,add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v Sch
 ```
 
 ## 💾 Download 
-* (Latest stable on Dev site) https://www.mirinsoft.com/debotnet
-* (Latest stable on GitHub) https://github.com/mirinsoft/debotnet/releases
+* (Latest stable on GitHub) https://github.com/builtbybel/debotnet/releases
 * (Chocolatey release) https://chocolatey.org/packages/debotnet
-* (Nightly builds) https://www.mirinsoft.com/debotnet-nightly
 
 ## 💬 Suggesting features / providing feedback
-Please send me [feedback](https://www.mirinsoft.com/feedback) or report an [Issue on GitHub](https://github.com/mirinsoft/debotnet/issues/new)
+Report an [Issue on GitHub](https://github.com/builtbybel/debotnet/issues/new)
 
 ## 🚀 Acknowledgments
-* More Information about Debotnet can be found on the [official website](https://www.mirinsoft.com/ms-apps/debotnet)
+* More Information about Debotnet can be found on the [official website](https://www.builtbybel.com/ms-apps/debotnet)
 * Several scripts are based upon the Windows 10 privacy guide from Federico Dossena, https://github.com/adolfintel/Windows10-Privacy
 * Integration of category Debloat Windows 10 powered by W4RH4WK, https://github.com/W4RH4WK/Debloat-Windows-10
 * Icon by EatosDesign, https://www.deviantart.com/eatosdesign/art/Windows-9-Icons-359505915
@@ -128,19 +126,19 @@ Please send me [feedback](https://www.mirinsoft.com/feedback) or report an [Issu
 
 <p align="center">
 	<strong>
-		<a href="https://www.mirinsoft.com">Website</a>
+		<a href="https://www.builtbybel.com">Website</a>
 		•
-		<a href="https://github.com/mirinsoft/debotnet/tree/master/scripts">Scripts</a>
+		<a href="https://github.com/builtbybel/debotnet/tree/master/scripts">Scripts</a>
 		•
-		<a href="https://github.com/mirinsoft/debotnet/wiki/How-to's">How-to's</a>
+		<a href="https://github.com/builtbybel/debotnet/wiki/How-to's">How-to's</a>
 		•
-		<a href="https://github.com/mirinsoft/debotnet/wiki/FAQ">FAQ</a>
+		<a href="https://github.com/builtbybel/debotnet/wiki/FAQ">FAQ</a>
 		•
-		<a href="https://github.com/mirinsoft/debotnet/wiki">Documentation</a>
+		<a href="https://github.com/builtbybel/debotnet/wiki">Documentation</a>
 		•
-		<a href="https://github.com/mirinsoft/debotnet/releases">Download</a>
+		<a href="https://github.com/builtbybel/debotnet/releases">Download</a>
 	</strong>
 </p>
 
 
-Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
+with ❤︎ © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
