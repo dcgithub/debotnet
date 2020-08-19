@@ -1,4 +1,2 @@
 # Normalize line endings.
 * text=auto
-# Reclassifies files as Visual Basic.
-*.* linguist-language=Visual Basic
